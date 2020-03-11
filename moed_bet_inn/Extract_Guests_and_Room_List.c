@@ -1,8 +1,7 @@
-//Authors: Yuval Kuperberg 200832525
-//		   Yaniv Boneh 201444403
-//Project: Moed Bet inn.
-//Description: This module extracts the required data from the input files
-
+/*
+Project: Moed Bet inn.
+Description: This module extracts the required data from the input files
+*/
 
 #include "Extract_Guests_and_Room_List.h"
 #include "Hotel_Manager.h"

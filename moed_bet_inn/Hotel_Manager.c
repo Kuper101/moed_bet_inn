@@ -1,7 +1,8 @@
-//Authors: Yuval Kuperberg 200832525
-//		   Yaniv Boneh 201444403
-//Project: TestManager
-//Description: This module does the guests to rooms allocation and tracking
+/*
+Project: TestManager
+Description: This module does the guests to rooms allocation and tracking
+
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
